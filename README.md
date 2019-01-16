@@ -11,8 +11,9 @@
 
 <p2>Later on people began to photoshop big chungus into video games and other sutff 
 .here are some pictures of it<p2>
-<img src="https://www.reddit.com/r/dankmemes/comments/a7xbak/it_wouldnt_even_be_close/?utm_content=media&utm_medium=post_embed&utm_name=cfcec00cd3fc44eba69ba20b0d2d3c33&utm_source=embedly&utm_term=a7xbak" alt="Chungus" width="400" height="400">
-
-
+<img src="https://i.redd.it/2g5qhs8l71521.jpg" alt="Chungus" width="400" height="400">
+<img src="https://i.redd.it/a15pxm0uae521.jpg" alt="" width="400" height="400">
+<img src="https://i.redd.it/x0hj4ei8cf521.jpg" alt="Chungus" width="400" height="400">
+<p>This meme died in about a week and i was kinda happy since i didnt understand these.<p>
 </body>
 </html>
